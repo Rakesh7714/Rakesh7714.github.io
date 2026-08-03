@@ -78831,13 +78831,13 @@ A.xD.prototype={
 ap(){return new A.PS()}}
 A.PS.prototype={
 L(a){var s=null,r=A.bz(a,s,t.w).w.a,q=t.p
-return A.dR(s,A.rL(A.b([A.e8(A.b([A.aqo(A.b([A.aun("Hi,\nI am Rakesh\nA Frontend Developer",B.Pa)],t.u6),!0,!0),B.jX,new A.c5(250,s,A.ana(!1,B.xY,s,s,B.e5,s,s,s,s,new A.agS(),s,A.ZV(s,s,B.ii,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),s)],q),B.be,B.fU,B.ag),A.eX("assets/me.png",s,s,r.a/2.5)],q),B.a_,B.rC,B.ag),B.v,s,B.kJ,s,r.b/1.2,s,B.lO,s,s)}}
+return A.dR(s,A.rL(A.b([A.e8(A.b([A.aqo(A.b([A.aun("Hi,\nI am Rakesh\nSoftware Developer",B.Pa)],t.u6),!0,!0),B.jX,new A.c5(250,s,A.ana(!1,B.xY,s,s,B.e5,s,s,s,s,new A.agS(),s,A.ZV(s,s,B.ii,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),s)],q),B.be,B.fU,B.ag),A.eX("assets/me.png",s,s,r.a/2.5)],q),B.a_,B.rC,B.ag),B.v,s,B.kJ,s,r.b/1.2,s,B.lO,s,s)}}
 A.agS.prototype={
 $0(){},
 $S:0}
 A.IJ.prototype={
 L(a){var s=null
-return A.dR(s,A.e8(A.b([new A.Ld(new A.a2O(),A.eX("assets/me.png",s,s,A.bz(a,s,t.w).w.a.a),s),B.M_,A.aqo(A.b([A.aun("Hi,\nI am Rakesh\nA Frontend Developer",B.eG)],t.u6),!0,!0),new A.c5(190,s,A.ana(!1,B.xY,s,s,B.e5,s,s,s,s,new A.a2P(),s,A.ZV(s,s,B.ii,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),s)],t.p),B.be,B.Y,B.ag),B.v,s,B.z7,s,20,s,B.lO,s,s)}}
+return A.dR(s,A.e8(A.b([new A.Ld(new A.a2O(),A.eX("assets/me.png",s,s,A.bz(a,s,t.w).w.a.a),s),B.M_,A.aqo(A.b([A.aun("Hi,\nI am Rakesh\nSoftware Developer",B.eG)],t.u6),!0,!0),new A.c5(190,s,A.ana(!1,B.xY,s,s,B.e5,s,s,s,s,new A.a2P(),s,A.ZV(s,s,B.ii,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),s)],t.p),B.be,B.Y,B.ag),B.v,s,B.z7,s,20,s,B.lO,s,s)}}
 A.a2O.prototype={
 $1(a){return new A.ob(B.cJ,B.eQ,B.eH,A.b([A.ay(255,B.cO.gm(0)>>>16&255,B.cO.gm(0)>>>8&255,B.cO.gm(0)&255),A.ay(255,B.bd.gm(0)>>>16&255,B.bd.gm(0)>>>8&255,B.bd.gm(0)&255)],t.t_),null,null).acM(0,a)},
 $S:485}
